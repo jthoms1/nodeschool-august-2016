@@ -1,2 +1,1 @@
-# nodeschool-august-2016
-nodeschool-august-2016
+# nodeschool-june-2016
